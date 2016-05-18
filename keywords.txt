@@ -1,0 +1,30 @@
+#######################################
+# Syntax Coloring Map For Easing
+#######################################
+
+#######################################
+# Class (KEYWORD1)
+#######################################
+
+Easing	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+# methods names
+easeInQuad      KEYWORD2
+easeOutQuad	    KEYWORD2
+easeInOutQuad   KEYWORD2
+easeInCubic     KEYWORD2
+easeOutCubic    KEYWORD2
+easeInOutCubic	KEYWORD2
+easeInQuart     KEYWORD2
+easeOutQuart    KEYWORD2
+easeInOutQuart	KEYWORD2
+easeInQuint     KEYWORD2
+easeOutQuint    KEYWORD2
+easeInOutQuint	KEYWORD2
+easeInTrig      KEYWORD2
+easeOutTrig     KEYWORD2
+easeInOutTrig   KEYWORD2
